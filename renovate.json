@@ -1,0 +1,10 @@
+{
+"packageRules": [
+    {
+      "matchPackageNames": ["renovate", "pie4t"],
+      "allowedVersions": "<=0.0.7",
+      "groupName": "Update Renovate",
+      "dependencyDashboardApproval": false
+    }
+  ]
+}
